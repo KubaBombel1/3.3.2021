@@ -22,7 +22,7 @@ public class Main
 
 
 
-        Shop shop = new Shop("Jana z Kolana 20", "Duża");
+        Shop shop = new Shop("Jana z Kolana 20", "Giga");
 
 
         shop.get_info();
